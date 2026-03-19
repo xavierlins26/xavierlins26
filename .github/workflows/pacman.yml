@@ -1,8 +1,8 @@
-name: Generate Pac-Man Contribution Graph
+name: Pac-Man Contributions
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,15 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate Pac-Man
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Pac-Man graph
+        uses: Platane/snk@v3
         with:
-          github_user_name: xavierlins26
+          github_user_name: SEU_USUARIO
+          outputs: |
+            dist/pacman.svg
 
-      - name: Push to repo
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
