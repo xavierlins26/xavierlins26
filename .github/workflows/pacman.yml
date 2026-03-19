@@ -15,7 +15,7 @@ jobs:
       - name: Generate Pac-Man graph
         uses: Platane/snk@v3
         with:
-          github_user_name: SEU_USUARIO
+          github_user_name: xavierlins26
           outputs: |
             dist/pacman.svg
 
