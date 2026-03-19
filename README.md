@@ -1,48 +1,62 @@
-## Hi there 👋
-{
-    "name": "GitHub Readme Stats Dev",
-    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-    "features": {
-        "ghcr.io/devcontainers/features/node:1": { "version": "22" }
-    },
-    "forwardPorts": [3000],
-    "portsAttributes": {
-        "3000": { "label": "HTTP" }
-    },
-    "appPort": [],
+<h1 align="left">Oii, eu sou o Xavier 🚀</h1>
 
-    // Use 'postCreateCommand' to run commands after the container is created.
-    "postCreateCommand": "npm install -g vercel",
+<p align="left">
+Olá! Sou um desenvolvedor em constante evolução, sempre buscando aprender coisas novas e melhorar minhas habilidades.<br><br>
 
-    // Use 'postStartCommand' to run commands after the container is started.
-    "postStartCommand": "hostname dev && npm install",
+💻 Tenho interesse em desenvolvimento de sistemas, banco de dados e aplicações web.<br>
+🧪 Aqui você vai encontrar projetos, testes e ideias colocadas em prática.<br>
+📚 Sempre estudando e explorando novas tecnologias.<br><br>
 
-    // Configure tool-specific properties.
-    "customizations": {
-        "vscode": {
-            "extensions": [
-                "yzhang.markdown-all-in-one",
-                "esbenp.prettier-vscode",
-                "dbaeumer.vscode-eslint",
-                "github.vscode-github-actions"
-            ]
-        }
-    },
+⚡ Objetivo: evoluir como programador e transformar ideias em projetos reais.
+</p>
 
-    "remoteUser": "root",
-    "privileged": true
-}
-<!--
-**xavierlins26/xavierlins26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👾 Pac-Man Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![pacman](https://raw.githubusercontent.com/xavierlins26/xavierlins26/output/pacman.svg)
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60"/>
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xavierlins26&show_icons=true&theme=github_dark&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xavierlins26&layout=compact&theme=github_dark" height="150"/>
+</div>
+
+---
+
+## 🌐 Contato
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=100&section=footer&theme=cobalt"/>
+</div>
