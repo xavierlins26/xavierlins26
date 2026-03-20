@@ -55,19 +55,19 @@ Olá! Sou um desenvolvedor em constante evolução, sempre buscando aprender coi
 
 ## 🌐 Contato
 
+###
+
 <div align="center">
-  <a href="https://discord.com/users/SEU_ID" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/xavier-lins-664500392/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B7F%2FiCWblRKWYPoMC9artRw%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
-  
-  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
-  </a>
-  
-  <a href="mailto:xlins4255@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"/>
+  <a href="xlins4255@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+###
 
 ---
 
