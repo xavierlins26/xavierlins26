@@ -64,7 +64,7 @@ Olá! Sou um desenvolvedor em constante evolução, sempre buscando aprender coi
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
   </a>
   
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:xlins4255@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"/>
   </a>
 </div>
