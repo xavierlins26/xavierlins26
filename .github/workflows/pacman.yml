@@ -1,8 +1,6 @@
 name: Snake Contributions
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,8 +11,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Generate snake
         uses: Platane/snk@v3
@@ -23,9 +20,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+      - name: Push snake to output
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git checkout output || git checkout -b output
+          cp -r dist/* .
+          git add .
+          git commit -m "update snake" || echo "no changes"
+          git push origin output --force
