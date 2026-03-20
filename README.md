@@ -1,8 +1,6 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=#0000FF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=0000FF&animation=blink&color=random"/>
 </div>
-
-###
 
 <h1 align="left">Oii, eu sou o Xavier 🚀</h1>
 
@@ -21,7 +19,7 @@ Olá! Sou um desenvolvedor em constante evolução, sempre buscando aprender coi
 ## 👾 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xavierlins26/xavierlins26/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/xavierlins26/xavierlins26/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -71,10 +69,8 @@ Olá! Sou um desenvolvedor em constante evolução, sempre buscando aprender coi
   </a>
 </div>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=#0000FF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontColor=0000FF&animation=blink&color=random"/>
 </div>
-
-###
