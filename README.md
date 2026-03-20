@@ -18,9 +18,11 @@ Olá! Sou um desenvolvedor em constante evolução, sempre buscando aprender coi
 
 ---
 
-## 👾 Pac-Man Contributions
+## 👾 Contributions
 
-![pacman](https://raw.githubusercontent.com/xavierlins26/xavierlins26/output/pacman.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xavierlins26/xavierlins26/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
@@ -56,9 +58,17 @@ Olá! Sou um desenvolvedor em constante evolução, sempre buscando aprender coi
 ## 🌐 Contato
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"/>
+  <a href="https://discord.com/users/SEU_ID" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
+  </a>
+  
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40"/>
+  </a>
 </div>
 
 ###
